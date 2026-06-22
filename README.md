@@ -341,12 +341,17 @@ Content-Type: application/json
 7. Test probation period calculations
 8. Test manager team request visibility
 
-## 📞 Support
+## 👤 Developer & Contact
 
-For issues or questions, refer to the API documentation at the Swagger UI endpoint when running in Development mode.
+Developed with 💻 by **Anas Magdy**
+
+If you have any questions, feedback, or potential opportunities, feel free to reach out:
+- **GitHub**: [@anasmagdy99](https://github.com/anasmagdy99)
+- **LinkedIn**: [Anas Magdy](https://www.linkedin.com/in/anas-magdy-4a9a4b2b8?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- **Email**: [anas.0523019@gmail.com](mailto:anas.0523019@gmail.com)
 
 ---
 
 **Version**: 1.0.0  
-**Last Updated**: 2026-02-02  
-**Author**: RMS Backend Expert AI
+**Last Updated**: 2026-06-16  
+**Author**: [Anas Magdy](https://github.com/anasmagdy99) 🚀
